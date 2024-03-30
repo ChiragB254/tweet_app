@@ -2,3 +2,5 @@ gensim
 nltk
 numpy
 wordcloud
+xgboost
+sklearn
