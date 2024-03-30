@@ -6,6 +6,9 @@ import nltk
 from gensim.models import Word2Vec
 import numpy as np
 
+nltk.download('punkt')
+nltk.download('wordnet')
+
 class X_clean():
     def __init__(self, x):
         self.x = x 
