@@ -3,4 +3,4 @@ nltk
 numpy
 wordcloud
 xgboost
-tslearn
+scipy=1.9.2  
