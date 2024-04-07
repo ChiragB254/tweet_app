@@ -1,6 +1,5 @@
-test_function.py
-test_run.ipynb
 catboost_info
-main.ipynb
-for_pytho_assignment.ipynb
 __pycache__
+test*
+dataset/test.csv
+dataset/sample_submission.csv
