@@ -3,4 +3,5 @@ nltk
 numpy
 wordcloud
 xgboost
+scikit-learn
 scipy ==1.10.0  
